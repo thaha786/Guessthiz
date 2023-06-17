@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    margin-top: 100px;
+    background-image:url("./images.jpeg");
+    background-repeat:repeat;
+    background-size:cover;
+     }
+     .image{
+    border-radius: 100px;
+    border: 2px solid;
+    width: 50px;
+    height: 50px;
+}
+button{
+width: 60px;
+height: 25px;
+font-weight: bold;
+border-color: rgb(72, 148, 83);
+border-radius: 10px;
+}
+button:hover{
+background-color: rgb(235, 135, 225);
+}
+input[type=number]{
+width: 200px;
+height: 20px;
+box-shadow:0 0 20px;
+}
